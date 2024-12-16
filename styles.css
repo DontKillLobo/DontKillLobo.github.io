@@ -1,0 +1,33 @@
+html {
+  color: #ffffff;
+  background-color: #4d4d4d;
+  text-shadow: #ffffff 0 -1px 4px, rgb(190, 125, 81) 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+  margin: auto;  
+  text-align: center;
+  background-color: rgb(88, 88, 88);
+  background-image: url("https://cdn11.bigcommerce.com/s-fwcq7xdl4a/images/stencil/original/image-manager/dsc09366.jpg?t=1696518296");
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+img {
+    width: 400px;
+    height: auto;
+    padding-bottom: 1px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+Button {
+  color: rgb(255, 255, 255); font-size: 26px; line-height: 26px; padding: 6px; border-radius: 10px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(255, 103, 55) 0%, rgb(203, 106, 38) 50%, rgb(117, 90, 22) 100%); box-shadow: rgb(255, 115, 61) 5px 5px 15px 5px; border: 2px solid rgb(255, 173, 68); display: inline-block;
+}
+Button:hover {
+  background: #FF6737; 
+}
+Button:active {
+  background: #755A16; 
+}
